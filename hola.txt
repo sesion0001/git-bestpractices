@@ -2,3 +2,4 @@ sesion0001
 BUAP
 LKE
 Curso Git
+Estamos en el curso
