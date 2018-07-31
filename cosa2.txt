@@ -1,0 +1,5 @@
+Este proyecto servirá para Clasificar Redes Onion usando técnicas de Linguistica Computacional
+
+Primero se descubrirán redes onion
+Segundo se Clasificaran por categorias
+Tercero se buscaran por contenido o por categoria
